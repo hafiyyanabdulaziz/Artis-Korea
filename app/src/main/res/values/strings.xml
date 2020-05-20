@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Artis Korea</string>
+    <string name="artis_name">Nama Artis</string>
+    <string name="detail">Detail</string>
+    <string name="todo">TODO</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="item">Item</string>
+    <string name="nama_creator">Hafiyyan Abdul Aziz</string>
+    <string name="desc_aplikasi">Hi. Perkenalkan Saya adalah pembuat aplikasi ini. Aplikasi ini merupakan submisson dicoding:
+        Belajar Membuat Aplikasi Android Pemula. Bahasa yang digunakan adalah kotlin. Inspirasi membuat aplikasi ini
+        muncul ketika lihat explore instagram banyak menampilkan artis korea
+    </string>
+    <string name="instagram">Instagram</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="github">Github</string>
+    <string name="email">hafiyyan@outlook.com</string>
+</resources>
